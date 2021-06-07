@@ -4,8 +4,8 @@ for i in range(10):
   arr.append(inserimento)
 print(arr)
 
-#function bubblesort
-def bubblesort(arr):
+#function bubbleSort
+def bubbleSort(arr):
   Trovato = True
   appo = 0
   while(Trovato):
@@ -16,7 +16,7 @@ def bubblesort(arr):
         arr[i] = arr[i+1]
         arr[i+1] = appo
         Trovato = True
-  print(arr)
+  return(arr)
 
 #function call
-bubblesort(arr)
+print(bubbleSort(arr))
