@@ -1,3 +1,5 @@
 # Sorting_Algorithms
-Sorting algorithms implementation
+Implementations and comparison of sorting alogorithms:
+*Bubble Sort
+*Insertion Sort 
 
