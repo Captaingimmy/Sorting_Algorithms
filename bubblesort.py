@@ -1,3 +1,4 @@
+#array popolation
 arr=[]
 for i in range(10):
   inserimento=int(input('inserisci un numero'))
