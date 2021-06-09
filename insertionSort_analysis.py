@@ -1,5 +1,7 @@
+#import libraries
 import random 
 import time
+
 arr= []
 #importo il primo apice 
 x=int(input('Inserisci il primo estremo: '))
@@ -27,11 +29,13 @@ def insertionSort(arr):
     arr[j+1] = appo
   return arr
 
-  
+
 #function call
 start=time.time()
 print(insertionSort(arr))
 end=time.time()
 temp=end-start
 
+
+#print time 
 print('\n\nil tempo di esecuzione è di ' + str(temp) + str(' secondi') )
