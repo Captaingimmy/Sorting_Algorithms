@@ -1,5 +1,8 @@
+#import libriries 
 import random 
 import time
+
+
 arr= []
 #importo il primo apice 
 x=int(input('Inserisci il primo estremo: '))
@@ -28,10 +31,10 @@ def bubbleSort(arr):
         Trovato = True
   return(arr)
 
-#function call
+#2function call
 start=time.time()
 print(bubbleSort(arr))
 end=time.time()
 temp=end-start
-
+#print time 
 print('\n\nil tempo di esecuzione è di ' + str(temp) + str(' secondi') )
