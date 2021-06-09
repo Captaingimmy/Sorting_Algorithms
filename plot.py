@@ -17,9 +17,12 @@ plt.xlabel('N (list size)')
 #creo il titolo 
 plt.title('Execution time')
 #inserisci i dati gli risultati ottenuti
+
 #bubble sort :
 y2 = [0,0.1058652400970459,0.34180569648742676,0.786597728729248,1.4346916675567627,2.2366673946380615,3.182283401489258, 4.391887426376343,5.860845565795898,7.415553569793701,9.327478408813477]
 #tempo analizzato tramite la libreria time 
+
+#parte grafica:
 #creo e coloro la linea 
 plt.plot(x,y2,color='green')
 #creo una legenda per tuuti i 2 algoritmi di ordinamento
