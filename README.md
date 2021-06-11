@@ -7,6 +7,12 @@ Implementations and comparison of sorting algorithms:
 ![](Execution_time.png)
 
 
+
+
+
+![](Execution_time_in_C.png)
+
+
 Tool:
 * Tmux terminal
 * Vim as text editor 
