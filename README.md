@@ -4,7 +4,7 @@ Implementations and comparison of sorting algorithms:
 * Insertion Sort 
 
 
-![](Execution_time.png)
+![](Execution_time_in_Python.png)
 
 
 
