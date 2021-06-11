@@ -1,5 +1,5 @@
 # Sorting_Algorithms
-Implementations and comparison of sorting algorithms:
+Implementations and comparison of sorting algorithms in C and Python:
 * Bubble Sort
 * Insertion Sort 
 
