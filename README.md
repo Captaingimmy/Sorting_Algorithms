@@ -17,11 +17,15 @@ Tool:
 * Tmux terminal
 * Vim as text editor 
 
-Libraries:
+Libraries in Python:
 * Matplotlib
 * Random 
 * Time
 
-
+Libraries in C:
+* stdlib.h
+* stdbool.h
+* stdio.h
+* time.h
 
 
