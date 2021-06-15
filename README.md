@@ -31,6 +31,6 @@ Libraries in C:
 Hardware:
 * Lenovo ideapad s145
 * Logitech G502
-* HHBB pro classic
+* HHKB pro classic
 
 
