@@ -28,4 +28,9 @@ Libraries in C:
 * stdio.h
 * time.h
 
+Hardware:
+* Lenovo ideapad s145
+* Logitech G502
+* HHBB pro classic
+
 
